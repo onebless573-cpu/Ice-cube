@@ -1,8 +1,8 @@
 {
-  "name": "TREND-X",
+  "name": "ice-cube",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by trendex",
   "logo": "https://files.catbox.moe/j2h8dg.jpg",
-  "keywords": ["TREND-X"],
+  "keywords": ["ice-cube"],
   "success_url": "/",
 
     "stack": "container",
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY TREND-X TECH 🇰🇪*"
+      "value": "*SEEN YOUR STATUS BY ice-cube TECH 🇬🇭*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "TREND-X"
+      "value": "ice-cube"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254110081982"
+      "value": "233553046559"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "TREND-X"
+      "value": "ice-cube"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ TRENDEX KING*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ICE CUBE 🇬🇭*"
     },
 
       "DELETE_LINKS": {
