@@ -8,9 +8,9 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • TREND-X 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • ICE-CUBE 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
-    [ • TRENDEX: KING👸 ]
+    [ • ICE-CUBE: KING👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
@@ -32,7 +32,7 @@ cmd({
       *│  ◦* *▢➠ DRIZZY*
       *│  ◦* *▢➠ ALISO*
       *│  ◦* *▢➠ YOU*
-      *│  ◦* *▢➠ TRENDEX QUEEN*
+      *│  ◦* *▢➠ ICE-CUBE QUEEN*
       *╰┈───────────────•*
         *•────────────•⟢*
     `;
