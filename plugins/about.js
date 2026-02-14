@@ -2,7 +2,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["trendex","whois"], 
+    alias: ["ice-cube","whois"], 
     react: "👑",
     desc: "get owner dec",
     category: "main",
@@ -11,19 +11,19 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let about = `
-*╭━━〔 TREND X 〕━━┈⊷*
+*╭━━〔 ICE CUBE 〕━━┈⊷*
 
 *👋 HELLO ${pushname}*
 
 *╰──────────────┈⊷*
 *╭━━━〔 MY ABOUT 〕━━━┈⊷*
 *┃★╭──────────────*
-*┃★│* *ᴡᴇʟᴄᴏᴍᴇ ɪᴛs TREND-x-ʙᴏᴛ*
-*┃★│* *ᴄʀᴇᴀᴛᴇʀ : TRENDEX*
-*┃★│* *ʀᴇᴀʟ ɴᴀᴍᴇ : TRENDEX KING*
-*┃★│* *ᴘᴜʙʟɪᴄ ɴᴀᴍᴇ : TREND-X*
-*┃★│* *ᴀɢᴇ : 19 ʏᴇᴀʀ*
-*┃★│* *ᴄɪᴛʏ : MOMBASA*
+*┃★│* *ᴡᴇʟᴄᴏᴍᴇ ɪᴛs Ice-cube-ʙᴏᴛ*
+*┃★│* *ᴄʀᴇᴀᴛᴇʀ : ICECUBE*
+*┃★│* *ʀᴇᴀʟ ɴᴀᴍᴇ : ICE CUBE KING*
+*┃★│* *ᴘᴜʙʟɪᴄ ɴᴀᴍᴇ : ICE-CUBE*
+*┃★│* *ᴀɢᴇ : 16 ʏᴇᴀʀ*
+*┃★│* *ᴄɪᴛʏ : ACCRA*
 *┃★│* *ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴅᴇᴠᴇʟᴘᴏʀ*
 *┃★╰──────────────*
 *╰━━━━━━━━━━━━━━━┈⊷*
@@ -33,7 +33,7 @@ let about = `
 *╭━━━〔 THANKS TO 〕━━━┈⊷*
 *┃★╭──────────────*
 *┃★│* *▢DIANA(BUGBOT DEV)*
-*┃★│* *▢TRENDEX(TOP-NOTCH)*
+*┃★│* *▢ICECUBE(TOP-NOTCH)*
 *┃★│* *▢IANOH(MAKALI SULTAN)*
 *┃★│* *▢DEMMY(BIG MEECH)*
 *┃★│* *▢HISOKA(ᴅᴊ)*
@@ -42,7 +42,7 @@ let about = `
 *╰━━━━━━━━━━━━━━━┈⊷*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ TREND X
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ICE CUBE
 *•────────────•⟢*
 `
 
