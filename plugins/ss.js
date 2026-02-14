@@ -69,7 +69,7 @@ cmd({
     await conn.sendMessage(from, {
         image: { url: `https://image.thum.io/get/fullpage/${url}` },
         caption: "- 🖼️ *Screenshot Generated*\n\n" +
-                "> ᴘᴏᴡᴇʀᴇᴅ ʙʏ Trend-x ᴛᴇᴄʜ 💜"
+                "> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ICE-CUBE ᴛᴇᴄʜ 💜"
     }, { quoted: mek });
 
   } catch (error) {
