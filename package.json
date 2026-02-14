@@ -1,12 +1,12 @@
 {
-  "name": "TREND-X",
+  "name": "ICE CUBE",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By TRENDEX",
+  "description": "A WhatsApp Bot Created By ICE-CUBE",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name TREND-X",
-    "stop": "pm2 stop TREND-X",
-    "restart": "pm2 restart TREND-X"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ICE-CUBE",
+    "stop": "pm2 stop ICE-CUBE",
+    "restart": "pm2 restart ICE-CUBE"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
