@@ -20,7 +20,7 @@ cmd({
     try {
         let code = args[0];
         if (!code) {
-            return reply("❌ Please provide a country code. Example: `.check 254`");
+            return reply("❌ Please provide a country code. Example: `.check 233`");
         }
 
         // Remove any '+' signs from the code
