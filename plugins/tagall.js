@@ -52,7 +52,7 @@ async (conn, mek, m, { from, participants, reply, isGroup, senderNumber, groupAd
             },
             message: {
                 contactMessage: {
-                    displayName: 'TREND-X TECH ✅',
+                    displayName: 'ICE-CUBE TECH ✅',
                     vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:TRENDX ✅\nORG:TREND-X;\nTEL;type=CELL;type=VOICE;waid=254700000000:+254 700 000000\nEND:VCARD`,
                     jpegThumbnail: null
                 }
