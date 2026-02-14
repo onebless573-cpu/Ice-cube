@@ -11,7 +11,7 @@ const quotedContact = {
     },
     message: {
         contactMessage: {
-            displayName: "TREND VERIFIED ✅",
+            displayName: "ICE-CUBE VERIFIED ✅",
             vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:TRENDX-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=254734939236:+254734939236\nEND:VCARD"
         }
     }
