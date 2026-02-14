@@ -21,7 +21,7 @@ async (conn, mek, m, {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401765045963@newsletter',
-                    newsletterName: 'TREND-X 𝐓𝐄𝐂𝐇',
+                    newsletterName: 'ICE-CUBE 𝐓𝐄𝐂𝐇',
                     serverMessageId: 143
                 }
             }
