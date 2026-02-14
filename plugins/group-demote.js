@@ -49,7 +49,7 @@ async(conn, mek, m, {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401765045963@newsletter',
-                    newsletterName: 'TREND-X 𝐃𝐄𝐌𝐎𝐓𝐄',
+                    newsletterName: 'ICE-CUBE 𝐃𝐄𝐌𝐎𝐓𝐄',
                     serverMessageId: 143
                 }
             }
@@ -57,6 +57,6 @@ async(conn, mek, m, {
         
     } catch (error) {
         console.error("Demote command error:", error);
-        reply("❌ Failed to demote the member. Error: " + error.message);
+        reply("❌ Failed ICE-CUBEte the member. Error: " + error.message);
     }
 });
