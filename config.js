@@ -38,9 +38,9 @@ PREFIX: process.env.PREFIX || ".",
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "TREND-X",
+BOT_NAME: process.env.BOT_NAME || "ICE CUBE",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "TREND-X",
+STICKER_NAME: process.env.STICKER_NAME || "ICE CUBE",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -48,15 +48,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254110081982",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233553046559",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "TRENDEX",
+OWNER_NAME: process.env.OWNER_NAME || "ICE CUBE",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED TRENDEX KING*",
+DESCRIPTION: process.env.DESCRIPTION || "*© POWERED ICE CUBE*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/adymbp.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Powered by *TREND-X TECH*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Powered by *ICE-CUBE TECH*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -80,7 +80,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "254734939236",
+DEV: process.env.DEV || "233553046559",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
