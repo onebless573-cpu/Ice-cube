@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💎 TREND-X 💎*`;
+> *@ 💎 ICE-CUBE 💎*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💎 TREND-X  💎 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💎 ICE-CUBE  💎 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
