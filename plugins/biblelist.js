@@ -85,7 +85,7 @@ cmd({
 27. Revelation
 
 
-❤️BY  TREND X❤️
+❤️BY  ICE-CUBE❤️
 `;
 
         // Remplacer ce lien par l'URL de l'image que tu m'enverras
@@ -99,7 +99,7 @@ cmd({
         // Envoi de la réponse avec l'image et la liste des livres de la Bible
         await conn.sendMessage(m.chat, {
             image: { url: imageUrl },
-            caption: `📖 *BIBLE LIST BY TREND X*:\n\n` +
+            caption: `📖 *BIBLE LIST BY ICE-CUBE*:\n\n` +
                      `Here is the complete list of books in the Bible:\n\n` +
                      bibleList.trim() // Ajout du texte des livres de la Bible
         }, { quoted: mek });
